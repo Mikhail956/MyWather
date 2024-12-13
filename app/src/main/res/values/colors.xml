@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Основные цвета -->
+    <color name="primary">#2196F3</color>
+    <color name="primary_variant">#1976D2</color>
+    <color name="primary_dark">#1565C0</color>
+    <color name="primary_variant_dark">#0D47A1</color>
+    <color name="accent">#FF4081</color>
+    <color name="accent_dark">#F50057</color>
+
+    <!-- Системные цвета -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Цвета фона -->
+    <color name="background_light">#FAFAFA</color>
+    <color name="background_dark">#121212</color>
+
+    <!-- Цвета текста -->
+    <color name="text_primary_light">#DE000000</color>
+    <color name="text_secondary_light">#99000000</color>
+    <color name="text_primary_dark">#DEFFFFFF</color>
+    <color name="text_secondary_dark">#99FFFFFF</color>
+
+    <!-- Цвета для карточек -->
+    <color name="card_background_light">#FFFFFF</color>
+    <color name="card_background_dark">#1E1E1E</color>
+
+    <!-- Цвета погодных состояний -->
+    <color name="sunny">#FFB300</color>
+    <color name="cloudy">#78909C</color>
+    <color name="rainy">#42A5F5</color>
+    <color name="snowy">#90CAF9</color>
+    <color name="stormy">#5C6BC0</color>
+    <color name="foggy">#B0BEC5</color>
+    <color name="thunder">#5C6BC0</color>
+    <color name="drizzle">#64B5F6</color>
+    <color name="clear">#FDD835</color>
+    <color name="mist">#90A4AE</color>
+
+    <!-- Дополнительные цвета -->
+    <color name="blue_500">#2196F3</color>
+</resources>

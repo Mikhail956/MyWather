@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="search_hint">Поиск города</string>
+    <string name="temperature_format">%d°C</string>
+    <string name="humidity_format">Влажность: %d%%</string>
+    <string name="wind_format">Ветер: %d м/с</string>
+    <string name="notification_channel_name">Прогноз погоды</string>
+    <string name="notification_channel_description">Уведомления о погодных условиях</string>
+    <string name="error_city_not_found">Город не найден</string>
+    <string name="error_network">Ошибка сети</string>
+    <string name="hourly">По часам</string>
+    <string name="daily">По дням</string>
+    <string name="app_logo">ForecastNow Logo</string>
+    <string name="weather_icon">Иконка погоды</string>
+    <string name="location_icon">Показать на карте</string>
+
+    <!-- Массив дней недели для уведомлений -->
+    <string-array name="notification_days">
+        <item>Воскресенье</item>
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+    </string-array>
+</resources>

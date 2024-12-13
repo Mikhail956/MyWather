@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/white"/>
+    
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/ic_weather_logo"/>
+    </item>
+    
+    <item android:bottom="64dp">
+        <shape android:shape="rectangle">
+            <size android:width="200dp" android:height="80dp"/>
+            <solid android:color="@android:color/transparent"/>
+        </shape>
+    </item>
+</layer-list> 
